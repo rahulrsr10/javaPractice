@@ -1,6 +1,6 @@
 
 public class Testa {
-	public void main (String args[]) {
 	
+public static void fan() {
 	}
 }

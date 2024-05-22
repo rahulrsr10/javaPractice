@@ -7,6 +7,5 @@ public class StringFormat {
 		int n=Integer.parseInt(no);
 		DecimalFormat format=new DecimalFormat("#,###");
 		System.out.println(format.format(n));
-	}
-
+	} 
 }
